@@ -1,0 +1,2 @@
+# Core-Architecture-Hardware-Bootstrapping-Surface-Remediation-Protocol
+This protocol addresses scenario conditions where high-tier proprietary tech and capital are withdrawn, leaving existing public-domain, industrial, and consumer hardware on the surface. It outlines how Fleet OS interfaces with legacy surface infrastructure to bootstrap local manufacturing, clean up residual hazards, and restore basic functionality.
